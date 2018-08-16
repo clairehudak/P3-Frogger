@@ -1,6 +1,19 @@
-frontend-nanodegree-arcade-game
+
+FEND-NANODEGREE-P3: Arcade Game
 ===============================
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+Project 3 of the FEND NANODEGREE program puts **object-oriented** programming into practice.
+The art assets, game engine, and some starter code were provided.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+To play this game, download the repository and run index.html in a browser.
+
+**Rules of the game:**
+1. Move your player across the board using the arrow keys.
+
+2. If you collide with an enemy, your player will return to the starting position.
+3. Your goal is to reach the water on the other end.
+
+4. If you successfully reach the water without colliding with an enemy,
+a banner of stars will appear, your player will return to the starting position, and you can play again!
+
+5. Have fun!
